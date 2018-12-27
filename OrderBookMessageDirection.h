@@ -1,0 +1,13 @@
+//
+// Created by Justin Shin on 12/25/18.
+//
+
+#ifndef BALOOCONTRIB_ORDERBOOKMESSAGEDIRECTION_H
+#define BALOOCONTRIB_ORDERBOOKMESSAGEDIRECTION_H
+
+enum OrderBookMessageDirection {
+    Ask,
+    Bid,
+};
+
+#endif //BALOOCONTRIB_ORDERBOOKMESSAGEDIRECTION_H
